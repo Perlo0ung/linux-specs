@@ -1,6 +1,6 @@
 
-## Linux 4.2.3
-* [Kernel Sources](http://www.kernel.org/pub/linux/kernel/v4.x/linux-4.2.3.tar.gz)
+## Linux 4.2
+* [Kernel Sources](http://www.kernel.org/pub/linux/kernel/v4.x/linux-4.2.tar.gz)
 
 ## Gentoo Patches 4.2.3
 

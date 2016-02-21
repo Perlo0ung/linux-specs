@@ -1,6 +1,6 @@
 # linux-specs
 
-Toolchain Specs Repository for [Embedux](https://github.com/embEDUx)
+Kernel Specs Repository for [Embedux](https://github.com/embEDUx)
 
 Branches Provided:
 
